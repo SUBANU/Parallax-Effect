@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: lightgray;
+   
+}
+
+.p1{
+    min-height:1000px;
+    background-image: url("https://wallup.net/wp-content/uploads/2016/10/12/318663-birds-748x421.png");
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position: center;
+    opacity:0.8;
+    background-size: cover;
+}
+
+.p2{
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.hd-freewallpapers.com/latest-wallpapers/hd-cute-birds-wallpapers.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    opacity:0.8;
+    background-size: cover;
+}
+
+.p3{
+    min-height: 1000px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image:url("https://i.pinimg.com/originals/6a/76/2f/6a762f392302e71739cd4ffad5e446e2.jpg");
+    opacity:0.8;
+    background-size: cover;
+}
+#text1{
+    background: rgb(151,234,219);
+    background: radial-gradient(circle, rgba(151,234,219,1) 0%, rgba(148,233,153,1) 100%);
+    font-size: large;
+    font-family:cursive;
+
+}
+#text2{
+    background: rgb(151,234,219);
+    background: radial-gradient(circle, rgba(151,234,219,1) 0%, rgba(148,155,233,1) 100%);
+    font-size: large;
+    font-family:cursive;
+
+}
+#text3{
+    background: rgb(151,234,219);
+    background: radial-gradient(circle, rgba(151,234,219,1) 0%, rgba(233,148,228,1) 100%);
+    font-size: large;
+    font-family:cursive;
+
+}
